@@ -69,8 +69,7 @@ To effectively work on and contribute to this project, ensure that you meet the 
 1. **Python:** This project requires Python 3.6 or higher. You can download and install Python from the official website [here](https://www.python.org/downloads/).
 
 2. **Jupyter Notebook:** Jupyter Notebook is used for interactive data analysis and visualization. You can install it using pip:
-
-3.**Libraries:** To run the code and notebooks in this project, you'll need to install the following Python libraries. You can install them using pip:
+3. **Libraries:** To run the code and notebooks in this project, you'll need to install the following Python libraries. You can install them using pip:
 
 pandas: Data manipulation and analysis library.
 pip install pandas
