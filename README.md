@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Employee Attrition Prediction Project is a comprehensive initiative aimed at the in-depth analysis and prediction of employee attrition within an organizational context. Employee attrition, characterized by the voluntary departure of employees from a company, carries substantial implications for workforce management and organizational stability. The primary objectives of this project are to provide valuable insights into the contributing factors behind attrition and to construct predictive models that enable the anticipation and proactive mitigation of attrition-related challenges.
+The Employee Attrition Prediction Project aims at the in-depth analysis and prediction of employee attrition within an organizational context. Employee attrition, characterized by the voluntary departure of employees from a company, carries substantial implications for workforce management and organizational stability.
 
 ## Dataset
 
@@ -53,8 +53,7 @@ The dataset metadata encompasses a comprehensive set of attributes:
 
 ### Exploratory Data Analysis (EDA)
 
-In the initial phase of this project, a comprehensive exploratory data analysis (EDA) is conducted. The EDA process delves into the dataset's intricate characteristics, scrutinizing data distributions, interrelationships among variables, and emerging trends. The primary objective is to discern and elucidate factors that exert influence on attrition within the organizational context.
-
+In the first part of this project, we do a deep dive into the dataset to understand it better. We look at things like how the data is spread out, how different parts of the data relate to each other, and any patterns that might be popping up. The main goal here is to figure out what things affect attrition in this company.
 ### Machine Learning Models
 
 In this project, we'll be using different machine learning techniques. These algorithms include a diverse range of approaches, including Support Vector Machine (SVM), Gradient Boosting, Random Forest, AdaBoost, Gaussian Naive Bayes, Logistic Regression, K-Nearest Neighbors, Extra Tree Classifier, and Decision Tree. 
@@ -85,6 +84,3 @@ pip install matplotlib
 
 seaborn: Data visualization library for enhanced aesthetics and statistical graphics.
 pip install seaborn
-
-tkinter:GUI toolkit
-pip install tk
